@@ -1,3 +1,21 @@
+.github-cards{
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+}
+
+.github-cards img{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.card-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .App {
   text-align: center;
 }
